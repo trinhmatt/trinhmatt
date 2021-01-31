@@ -1,4 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinhmatt&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Languages, Frameworks, and Databases: 
+C++, Java, Python, Swift, Javascript, React (w/ Redux), React Native, Angular, MongoDB, Firebase, Oracle SQL, SQLite
+  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinhmatt&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **trinhmatt/trinhmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
