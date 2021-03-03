@@ -6,8 +6,7 @@ Technologies | Names
 ------------ | -------------
 Languages | C, C++, Java, Python, Swift
 Database Management | Oracle 12c, MYSQL, MongoDB, Firebase
-Design and IDE Tools | Visual Studio, VS Code, Eclipse
-Web Development |	JavaScript, HTML5, CSS3, AWS, Heroku, Node.JS, Express.js, React + Redux, React Native, EJS, Angular
+Web Development |	JavaScript (ES6+), AWS, Heroku, Node.jS, Express.js, React, React Native, Angular
 
 
 <!--
