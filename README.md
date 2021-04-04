@@ -4,7 +4,7 @@
 
 Technologies | Names
 ------------ | -------------
-Languages | C, C++, Java, Python, Swift
+Languages | C++, Java, Python, Swift
 Database Management | Oracle 12c, MYSQL, MongoDB, Firebase
 Web Development |	JavaScript (ES6+), AWS, Heroku, Node.jS, Express.js, React, React Native, Angular
 
