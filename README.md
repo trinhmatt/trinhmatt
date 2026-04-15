@@ -4,9 +4,11 @@
 
 Technologies | Names
 ------------ | -------------
-Languages | C++, Java, Python, Swift
-Database Management | Oracle 12c, MYSQL, MongoDB, Firebase
-Web Development |	JavaScript (ES6+), AWS, Heroku, Node.jS, Express.js, React, React Native, Angular
+Languages | C++, Java, Python, Go
+Database Management | Oracle 12c, Redis, MongoDB, Postgres
+Web Development |	TypeScript, AWS, Node.jS, Express.js, React, React Native, Angular
+
+Currently focused on building and scaling agentic systems. 
 
 
 <!--
